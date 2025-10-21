@@ -8,7 +8,7 @@ package «lean_project» where
   ]
   -- add any additional package configuration options here
 
-require mathlib from "vendor/mathlib4"
+-- require mathlib from "vendor/mathlib4"
 -- require mathlib from git
 --   "https://github.com/leanprover-community/mathlib4.git"
 
